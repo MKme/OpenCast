@@ -11,6 +11,7 @@ Allow anyone, anywhere to easily create a viable cast or brace with a cheap came
 Most printed casts online seem to be proprietary and closed source- this instruction and files I make freely available for anyone.
 
 ### Prerequisite Software Installs
+
 Install KinectSDK-v1.8 - IMPORTANT you use version 1.8 
 
 Install Skanect-1.9.1 
