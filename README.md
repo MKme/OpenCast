@@ -33,7 +33,7 @@ Windows Device manager and expand the sections for the Kinect. This seems to nud
 
 Import your scan
 
-Slice top and bottom as needed for fingers/toes etc
+Slice top and bottom as needed for fingers/toes etc (Important to select NO FILL when cut)
 
 Offset whole model 5mm
 
