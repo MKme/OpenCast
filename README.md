@@ -12,13 +12,16 @@ Most printed casts online seem to be proprietary and closed source- this instruc
 
 ### Prerequisite Software Installs
 Install KinectSDK-v1.8 - IMPORTANT you use version 1.8 
-Insatll Skanect-1.9.1 
+
+Install Skanect-1.9.1 
+
 Install Meshmixer
 
 Plug in your Kinect camera. Windows will mess around installing drivers for awhile. If it still doesnt show up in Skanect- go in to
 Windows Device manager and expand the sections for the Kinect. This seems to nudge windows into finishing the install (it did for me)
 
 ## Scan and print as per the video here:
+--------------video forthcoming---------------
 
 
 ## In MeshMixer:
