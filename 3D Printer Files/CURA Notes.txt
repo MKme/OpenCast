@@ -1,0 +1,4 @@
+Created for use with CURA 2.6.2 
+Adjust support as needed- I often need support on bottom circumference of the model so this profile does that but no other supports (high overhang #)
+
+Adjust Infill as desired. 15% on 4mm pattern size is pretty strong

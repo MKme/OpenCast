@@ -26,16 +26,29 @@ Windows Device manager and expand the sections for the Kinect. This seems to nud
 
 
 ## In MeshMixer:
+
 Import your scan
+
 Slice top and bottom as needed for fingers/toes etc
+
 Offset whole model 5mm
+
 Separate shells
+
 Delete inside one
+
 Select whole model
+
 Reduce 50%
+
 Create your Pattern- If pattern too tigh- reduce further untill patern suits you
+
 Set pattern width to around 4mm
+
 Select all and Reduce 50%
+
 Analyze and repair
+
 Export to stl
+
 Use Netfab if needed to further repair or make stl smaller in file size
