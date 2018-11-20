@@ -1,4 +1,33 @@
 # OpenCast
 3D Printable medical casts and braces using XBox Kinect Camera/scanner
 
-This repo will contain the instructions, examples and files for the OpenCast DIY 3D prinable casts & braces.
+This repo will contain the instructions, examples and files for the OpenCast DIY 3D prinable casts & braces using an XBOX Kinect camera. The goal:
+Allow anyone, anywhere to easily create a viable cast or brace with a cheap camera and 3D printer. The cast is perfectly formed to the patients body, breathes and can even be worn while bathing. This method can also be used for creating a form-fitted prosthetic device for patients as well.
+
+Most printed casts online seem to be proprietary and closed source- this instruction and files I make freely available for anyone.
+
+### Prerequisite Software Installs
+Install KinectSDK-v1.8 - IMPORTANT you use version 1.8 
+Insatll Skanect-1.9.1 
+Install Meshmixer
+
+Plug in your Kinect camera. Windows will mess around installing drivers for awhile. If it still doesnt show up in Skanect- go in to
+Windows Device manager and expand the sections for the Kinect. This seems to nudge windows into finishing the install (it did for me)
+
+## Scan and print as per the video here:
+
+
+## In MeshMixer:
+Import your scan
+Slice top and bottom as needed for fingers/toes etc
+Offset whole model 5mm
+Separate shells
+Delete inside one
+Select whole model
+Reduce 50%
+Create your Pattern- If pattern too tigh- reduce further untill patern suits you
+Set pattern width to around 4mm
+Select all and Reduce 50%
+Analyze and repair
+Export to stl
+Use Netfab if needed to further repair or make stl smaller in file size
