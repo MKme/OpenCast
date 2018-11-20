@@ -1,6 +1,10 @@
 # OpenCast
 3D Printable medical casts and braces using XBox Kinect Camera/scanner
 
+<p align="center">
+  <img src="https://github.com/MKme/OpenCast/blob/master/Pics/CURA%20Preview.PNG" width="700"/>
+</p>
+
 This repo will contain the instructions, examples and files for the OpenCast DIY 3D prinable casts & braces using an XBOX Kinect camera. The goal:
 Allow anyone, anywhere to easily create a viable cast or brace with a cheap camera and 3D printer. The cast is perfectly formed to the patients body, breathes and can even be worn while bathing. This method can also be used for creating a form-fitted prosthetic device for patients as well.
 
