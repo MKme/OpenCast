@@ -25,6 +25,9 @@ Allow anyone, anywhere to easily create a viable cast or brace with a cheap came
 
 Most printed casts online seem to be proprietary and closed source- this instruction and files I make freely available for anyone.
 
+Get the Kinect camera here: https://amzn.to/2TKURif
+More options to buy: https://amzn.to/2TwPUsW
+
 ### Prerequisite Software Installs
 
 Install KinectSDK-v1.8 - IMPORTANT you use version 1.8 
