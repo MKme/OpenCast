@@ -27,7 +27,7 @@ Most printed casts online seem to be proprietary and closed source- this instruc
 
 Get the Kinect camera here: https://amzn.to/2TKURif
 
-More options to buy: https://amzn.to/2TwPUsW
+More options to buy: https://amzn.to/36nfiXg
 
 ### Prerequisite Software Installs
 
