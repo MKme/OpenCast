@@ -41,7 +41,7 @@ Plug in your Kinect camera. Windows will mess around installing drivers for awhi
 Windows Device manager and expand the sections for the Kinect. This seems to nudge windows into finishing the install (it did for me)
 
 ## Scan and print as per the video here:
---------------video forthcoming---------------
+https://www.youtube.com/watch?v=xrnQtiDN2yQ
 
 
 ## In MeshMixer:
